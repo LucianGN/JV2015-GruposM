@@ -14,6 +14,8 @@ import util.Fecha;
  *  @author: ajp
  */
 
+
+// pull request prueba Lucian 
 public class SesionUsuario {
 	
 	// Atributos	
